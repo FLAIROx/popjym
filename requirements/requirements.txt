@@ -1,0 +1,5 @@
+flax
+gymnax
+jax
+jaxlib
+numpy
